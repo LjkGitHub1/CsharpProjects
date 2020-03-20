@@ -1,0 +1,11 @@
+E:\Microsoft Visual Studio\C#\work2\bin\Debug\netcoreapp3.1\work2.exe
+E:\Microsoft Visual Studio\C#\work2\bin\Debug\netcoreapp3.1\work2.deps.json
+E:\Microsoft Visual Studio\C#\work2\bin\Debug\netcoreapp3.1\work2.runtimeconfig.json
+E:\Microsoft Visual Studio\C#\work2\bin\Debug\netcoreapp3.1\work2.runtimeconfig.dev.json
+E:\Microsoft Visual Studio\C#\work2\bin\Debug\netcoreapp3.1\work2.dll
+E:\Microsoft Visual Studio\C#\work2\bin\Debug\netcoreapp3.1\work2.pdb
+E:\Microsoft Visual Studio\C#\work2\obj\Debug\netcoreapp3.1\work2.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\C#\work2\obj\Debug\netcoreapp3.1\work2.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\C#\work2\obj\Debug\netcoreapp3.1\work2.AssemblyInfo.cs
+E:\Microsoft Visual Studio\C#\work2\obj\Debug\netcoreapp3.1\work2.dll
+E:\Microsoft Visual Studio\C#\work2\obj\Debug\netcoreapp3.1\work2.pdb
