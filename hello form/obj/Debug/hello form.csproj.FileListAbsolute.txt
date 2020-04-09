@@ -1,0 +1,9 @@
+E:\Microsoft Visual Studio\C#\hello form\obj\Debug\hello form.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\C#\hello form\obj\Debug\hello_form.Form1.resources
+E:\Microsoft Visual Studio\C#\hello form\obj\Debug\hello_form.Properties.Resources.resources
+E:\Microsoft Visual Studio\C#\hello form\obj\Debug\hello form.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\C#\hello form\bin\Debug\hello form.exe.config
+E:\Microsoft Visual Studio\C#\hello form\bin\Debug\hello form.exe
+E:\Microsoft Visual Studio\C#\hello form\bin\Debug\hello form.pdb
+E:\Microsoft Visual Studio\C#\hello form\obj\Debug\hello form.exe
+E:\Microsoft Visual Studio\C#\hello form\obj\Debug\hello form.pdb

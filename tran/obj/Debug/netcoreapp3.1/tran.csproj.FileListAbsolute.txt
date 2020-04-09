@@ -1,0 +1,11 @@
+E:\Microsoft Visual Studio\C#\tran\bin\Debug\netcoreapp3.1\tran.exe
+E:\Microsoft Visual Studio\C#\tran\bin\Debug\netcoreapp3.1\tran.deps.json
+E:\Microsoft Visual Studio\C#\tran\bin\Debug\netcoreapp3.1\tran.runtimeconfig.json
+E:\Microsoft Visual Studio\C#\tran\bin\Debug\netcoreapp3.1\tran.runtimeconfig.dev.json
+E:\Microsoft Visual Studio\C#\tran\bin\Debug\netcoreapp3.1\tran.dll
+E:\Microsoft Visual Studio\C#\tran\bin\Debug\netcoreapp3.1\tran.pdb
+E:\Microsoft Visual Studio\C#\tran\obj\Debug\netcoreapp3.1\tran.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\C#\tran\obj\Debug\netcoreapp3.1\tran.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\C#\tran\obj\Debug\netcoreapp3.1\tran.AssemblyInfo.cs
+E:\Microsoft Visual Studio\C#\tran\obj\Debug\netcoreapp3.1\tran.dll
+E:\Microsoft Visual Studio\C#\tran\obj\Debug\netcoreapp3.1\tran.pdb

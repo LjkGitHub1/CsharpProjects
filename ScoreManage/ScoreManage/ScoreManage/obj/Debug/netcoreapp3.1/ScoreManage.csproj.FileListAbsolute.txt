@@ -1,0 +1,13 @@
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\bin\Debug\netcoreapp3.1\ScoreManage.exe
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\bin\Debug\netcoreapp3.1\ScoreManage.deps.json
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\bin\Debug\netcoreapp3.1\ScoreManage.runtimeconfig.json
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\bin\Debug\netcoreapp3.1\ScoreManage.runtimeconfig.dev.json
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\bin\Debug\netcoreapp3.1\ScoreManage.dll
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\bin\Debug\netcoreapp3.1\ScoreManage.pdb
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\obj\Debug\netcoreapp3.1\ScoreManage.csprojAssemblyReference.cache
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\obj\Debug\netcoreapp3.1\ScoreManage.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\obj\Debug\netcoreapp3.1\ScoreManage.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\obj\Debug\netcoreapp3.1\ScoreManage.AssemblyInfo.cs
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\obj\Debug\netcoreapp3.1\ScoreManage.dll
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\obj\Debug\netcoreapp3.1\ScoreManage.pdb
+F:\Microsoft Visual Studio\C#\ScoreManage\ScoreManage\ScoreManage\obj\Debug\netcoreapp3.1\ScoreManage.genruntimeconfig.cache
